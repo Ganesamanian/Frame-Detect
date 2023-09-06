@@ -1,4 +1,4 @@
-# README #
+# Frame-Detect #
 
 This README provides comprehensive information about the Frame Difference project, including setup instructions, usage guidelines, and contribution details.
 
@@ -14,7 +14,7 @@ This README provides comprehensive information about the Frame Difference projec
   1. **Clone this repository** to your local machine.
   2. Ensure that you have **Python** (version 3.6 or higher), **Numpy**, and the required dependencies (such as **OpenCV**) installed on your system.
   3. Organize your input images in a folder.
-  4. Run the `frame_difference` function by providing the input folder, output folder, and an optional threshold value.
+  4. Run the `frame_difference` function by providing the input and output folders and an optional threshold value.
 
 * **Configuration**: No specific configuration is required for this project. The code is designed to work with default settings.
 
@@ -25,9 +25,9 @@ This README provides comprehensive information about the Frame Difference projec
 
 * **Database configuration**: This project does not utilize a database.
 
-* **How to run tests**: Currently, there are no automated tests provided within the repository. You can evaluate the effectiveness of the Frame Difference function by following the usage instructions and examining the results.
+* **How to run tests**: Currently, no automated tests are provided within the repository. You can evaluate the effectiveness of the Frame Difference function by following the usage instructions and examining the results.
 
-* **Deployment instructions**: There are no special deployment requirements. Simply clone the repository and utilize the Frame Difference function according to your needs.
+* **Deployment instructions**: There are no special deployment requirements. Clone the repository and utilize the Frame Difference function according to your needs.
 
 ### Contribution guidelines ###
 
